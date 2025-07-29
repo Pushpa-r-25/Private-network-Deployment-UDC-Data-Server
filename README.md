@@ -23,12 +23,3 @@ This repository provides a step-by-step setup for configuring a web and database
 1. PHP page connects to MySQL and confirms connectivity.
 2. Main app collects user info and files.
 3. Data is stored in the DB; files saved locally.
-
----
-
-### 📁 Screenshots
-(Include descriptive captions for each uploaded screenshot.)
-
----
-
-Feel free to fork and modify this setup to suit your organization’s private network requirements.
